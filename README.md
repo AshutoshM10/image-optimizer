@@ -15,6 +15,7 @@ It resizes and converts images to modern formats (like WebP), ideal for integrat
 
 ---
 
+
 ## 📁 Project Structure
 
 ```
